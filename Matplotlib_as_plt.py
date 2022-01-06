@@ -35,6 +35,16 @@ import matplotlib.pyplot as plt
 # this changes the default date converter for better interactive plotting of dates:
 plt.rcParams['date.converter'] = 'concise'
 
+# Build histogram with 5 bins
+plt.hist(life_exp,5)
 
+# Show and clean up plot
+plt.show()
+plt.clf()
 
+# Build histogram with 20 bins
+plt.hist(life_exp,20)
 
+# Show and clean up again
+plt.show()
+plt.clf()
