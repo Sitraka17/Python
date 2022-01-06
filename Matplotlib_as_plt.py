@@ -1,14 +1,14 @@
 ################################################
-# Import package
-
-import matplotlib.pyplot as plt
-
-# Build Scatter plot
-plt.scatter(x,y)
-
-# Show plot
-plt.show()
-##############################################
+# Import package                               #
+                                               #
+import matplotlib.pyplot as plt                #
+                                               #
+# Build Scatter plot                           #
+plt.scatter(x,y)                               #
+                                               #
+# Show plot                                    #
+plt.show()                                     #
+############################################## #
 
 
 # Print the last item from year and pop
