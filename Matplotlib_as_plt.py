@@ -1,3 +1,16 @@
+################################################
+# Import package
+
+import matplotlib.pyplot as plt
+
+# Build Scatter plot
+plt.scatter(x,y)
+
+# Show plot
+plt.show()
+##############################################
+
+
 # Print the last item from year and pop
 
 print(year[-1])
@@ -21,3 +34,7 @@ import matplotlib.pyplot as plt
 
 # this changes the default date converter for better interactive plotting of dates:
 plt.rcParams['date.converter'] = 'concise'
+
+
+
+
