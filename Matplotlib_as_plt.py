@@ -77,9 +77,9 @@ import numpy as np
 np_pop = np.array(pop)
 
 # Double np_pop
-np_pop= np_pop*2
+np_pop=  np_pop * 2
 # Update: set s argument to np_pop
-plt.scatter(gdp_cap, life_exp, s = pop)
+plt.scatter(gdp_cap, life_exp, s = np_pop)
 
 # Previous customizations
 plt.xscale('log') 
