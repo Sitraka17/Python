@@ -77,7 +77,7 @@ import numpy as np
 np_pop = np.array(pop)
 
 # Double np_pop
-np_pop*2
+np_pop= np_pop*2
 # Update: set s argument to np_pop
 plt.scatter(gdp_cap, life_exp, s = pop)
 
@@ -90,3 +90,5 @@ plt.xticks([1000, 10000, 100000],['1k', '10k', '100k'])
 
 # Display the plot
 plt.show()
+
+
