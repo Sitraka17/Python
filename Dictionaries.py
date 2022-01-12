@@ -105,3 +105,9 @@ row_labels = ['US', 'AUS', 'JPN', 'IN', 'RU', 'MOR', 'EG']
 cars.index =  ['US', 'AUS', 'JPN', 'IN', 'RU', 'MOR', 'EG']
 # Print cars again
 print(cars)
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<< pd.read_csv( 'parth/name.csv') >>>>>>>>>>>>>>>>>>><
+# Import the cars.csv data: cars
+cars = pd.read_csv('cars.csv') #don't forget the ' name.csv '  )
+# Print out cars
+print(cars)
