@@ -1,1 +1,2 @@
-datetime.date.today().isocalendar()[1]
+datetime.date.today().isocalendar()
+
