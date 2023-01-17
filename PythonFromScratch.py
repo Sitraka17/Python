@@ -10,9 +10,17 @@ ur_first_variable = "an unremarkable string"
 #tada! It's stored!
 #but be carefull. It will not be shown yet. 
 
-name = "Isidora" # Declaring variable name
-favorite_number = 12 # Declaring variable favorite_number
+name = "Isidora" 	# Declaring variable name
+favorite_number = 12 	# Declaring variable favorite_number
 #To see the variable in the console, you must call it. Using the print function! 
-print(name) # Using variable name for a variable can be a string 
-print(favorite_number) # Using variable number or a int/float. 
+print(name) 		# Using variable name for a variable can be a string 
+print(favorite_number) 	# Using variable number or a int/float. 
+
+#But a variable can be changed before it's called. 
+#then it will take the last known value. 
+str1 = "na"
+str2 = "ba"
+str1 = str2
+print(str1) 
+
 
