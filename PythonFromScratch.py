@@ -23,4 +23,13 @@ str2 = "ba"
 str1 = str2
 print(str1) 
 
+#You can do computations (des calculs )
+var1 = 7 
+var2 = 6 
+print (var1*var2) 
+
+#You can concatenate strings 
+var1 = "Gérard"
+var2 = "Depardeux"
+print (var1+" " + var2) 
 
