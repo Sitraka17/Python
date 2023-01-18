@@ -40,7 +40,7 @@ print (var1+" " + var2)
 ###################### Level 2 ############
 # Import pandas
 import pandas as pd
-# Load the 'ransom.csv' into a DataFrame
+# Load the 'random.csv' into a DataFrame
 r = pd.read_csv('random.csv')
 
 # Display DataFrame
