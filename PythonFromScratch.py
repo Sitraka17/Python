@@ -33,3 +33,5 @@ var1 = "Gérard"
 var2 = "Depardeux"
 print (var1+" " + var2) 
 
+#Python has a number of built-in functions for strings. 68 in 2023 [source]: https://www.codecademy.com/resources/docs/python/built-in-functions
+
