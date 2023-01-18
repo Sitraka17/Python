@@ -35,3 +35,13 @@ print (var1+" " + var2)
 
 #Python has a number of built-in functions for strings. 68 in 2023 [source]: https://www.codecademy.com/resources/docs/python/built-in-functions
 
+
+
+###################### Level 2 ############
+# Import pandas
+import pandas as pd
+# Load the 'ransom.csv' into a DataFrame
+r = pd.read_csv('random.csv')
+
+# Display DataFrame
+print(r)
