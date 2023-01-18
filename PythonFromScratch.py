@@ -45,3 +45,6 @@ r = pd.read_csv('random.csv')
 
 # Display DataFrame
 print(r)
+
+# The 6 primitives of Turring 
+#Move R , L , B, F ; read and ..
