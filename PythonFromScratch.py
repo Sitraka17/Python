@@ -35,7 +35,13 @@ print (var1+" " + var2)
 
 #Python has a number of built-in functions for strings. 68 in 2023 [source]: https://www.codecademy.com/resources/docs/python/built-in-functions
 
-
+#####      The 6 primitives of Turring    		######## 
+#	Right: Move the Machine's head to the right of the current square.
+#	Left: Move the Machine's head to the left of the current square.
+#	Print: Print a symbol on the current square.
+#	Scan: Identify any symbols on the current square.
+#	Erase: Erase any symbols presented on the current square.
+#	Halt: Do nothing.
 
 ###################### Level 2 ############
 # Import pandas
@@ -45,6 +51,8 @@ r = pd.read_csv('random.csv')
 
 # Display DataFrame
 print(r)
+# Plot a graph
+plt.plot(x_values, y_values)
 
-# The 6 primitives of Turring 
-#Move R , L , B, F ; read and ..
+# Display the graph
+plt.show()
