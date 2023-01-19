@@ -42,6 +42,15 @@ print (var1+" " + var2)
 #	Scan: Identify any symbols on the current square.
 #	Erase: Erase any symbols presented on the current square.
 #	Halt: Do nothing.
+#############################################################################
+
+word = "learning"
+print(word[1:5]) #Strings starts at 0 but a substring starts at 1 and ends at n+1 
+
+
+
+
+
 
 ###################### Level 2 ############
 # Import pandas
