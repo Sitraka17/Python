@@ -47,11 +47,19 @@ print (var1+" " + var2)
 word = "learning"
 print(word[1:5]) #Strings starts at 0 but a substring starts at 1 and ends at n+1 
 
-
 word = "steamer"
 start = 1
 end = 5
 print(word[start:end])
+
+
+text = 'bat ball'
+
+# REPLACE 'ba' with 'ro'
+replaced_text = text.replace('ba', 'ro')
+print(replaced_text)
+# Output: rot roll
+
 
 ###################### Level 2 ############
 # Import pandas
