@@ -67,7 +67,12 @@ new_forecast = forecast.replace("rainy", "sunny")  #The REPLACE function returns
 print(forecast) # Original forecast
 print(new_forecast) # New forecast
 
-
+#LISTS / VARIABLES are useful in order to not type it every time. ie you store the informations in a variable so you can call it. 
+words = "red fish"
+words.replace("red", "blue")
+print(words)
+print(words.replace("red", "blue")) 
+#in this example the variable words didn't saved the changes (just like in vidéo games)
 
 
 ###################### Level 2 ############
