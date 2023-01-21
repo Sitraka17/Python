@@ -61,6 +61,15 @@ print(replaced_text)
 # Output: rot roll
 
 
+######### REPLACE FCTION ########
+forecast = "It will be rainy today"
+new_forecast = forecast.replace("rainy", "sunny")  #The REPLACE function returns a new string in which all instances of one substring are replaced with another substring.
+print(forecast) # Original forecast
+print(new_forecast) # New forecast
+
+
+
+
 ###################### Level 2 ############
 # Import pandas
 import pandas as pd
