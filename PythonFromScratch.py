@@ -75,6 +75,14 @@ print(words.replace("red", "blue"))
 #in this example the variable words didn't saved the changes (just like in vidéo games)
 
 
+form_letter = "Hello [Insert Name Here]. I'd like to personally thank you for your contribution." 
+# Run the replacement to insert Emily
+form_letter = form_letter.replace("[Insert Name Here]", "Emily in Paris")
+# Print the updated letter
+print(form_letter)
+
+
+
 ###################### Level 2 ############
 # Import pandas
 import pandas as pd
