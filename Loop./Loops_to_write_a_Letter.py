@@ -11,3 +11,14 @@ for i in range(5): # Code below is repeated 5 times
 # No more indentation! Marks the end of the for-loop.
 hideturtle()
 bye()
+#You can write the C letter in 5 lines rather than this type: 
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
