@@ -1,11 +1,11 @@
+#Lesson 1 : 
 import pandas as pd
 import seaborn as sns #the first words you will be able to read in any code is the import bloc. 
 			    #when you start anything you need to prepare a frame and the tools. 
 			    #packages are the tools, the ide is the frame. 
-
-#A variable is usefull
-#You will store informations. 
-
+#Lesson 2
+# A variable is usefull
+# You will store informations. 
 ur_first_variable = "an unremarkable string" 
 #tada! It's stored!
 #but be carefull. It will not be shown yet. 
@@ -23,10 +23,17 @@ str2 = "ba"
 str1 = str2
 print(str1) 
 
+#Lesson 3: 
+#Simple operations are possible in python: 
 #You can do computations (des calculs )
 var1 = 7 
 var2 = 6 
 print (var1*var2) 
+#      == tests that two values are equal.
+#      != tests that two values are not equal.
+###### > and < test that greater than or less than, respectively.
+#####  >= and <= test greater than or equal to or less than or equal to, respectively.
+
 
 #You can concatenate strings 
 var1 = "Gérard"
@@ -81,15 +88,6 @@ form_letter = form_letter.replace("[Insert Name Here]", "Emily in Paris")
 # Print the updated letter
 print(form_letter)
 #############################################################################################################
-
-
-#      == tests that two values are equal.
-#      != tests that two values are not equal.
-###### > and < test that greater than or less than, respectively.
-#####  >= and <= test greater than or equal to or less than or equal to, respectively.
-
-
-
 
 
 
