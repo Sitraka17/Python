@@ -80,6 +80,18 @@ form_letter = "Hello [Insert Name Here]. I'd like to personally thank you for yo
 form_letter = form_letter.replace("[Insert Name Here]", "Emily in Paris")
 # Print the updated letter
 print(form_letter)
+#############################################################################################################
+
+
+#      == tests that two values are equal.
+#      != tests that two values are not equal.
+###### > and < test that greater than or less than, respectively.
+#####  >= and <= test greater than or equal to or less than or equal to, respectively.
+
+
+
+
+
 
 
 
