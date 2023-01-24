@@ -5,3 +5,14 @@ for i in range(1, 50):
     left(90)
 
 bye()
+
+
+#### Reverse spiral just put a - 
+
+from turtle import *
+
+for i in range(100, 0, -5):
+    forward(i)
+    left(90)
+
+bye()
