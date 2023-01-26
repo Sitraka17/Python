@@ -17,6 +17,8 @@ plt.plot(ransom.letter, ransom.frequency,
 # Y-values should be suspect1.frequency
 # Label should be "Fred Frequentist"
 plt.plot(suspect1.letter, suspect1.frequency, label='Fred Frequentist') #DON T FORGUET THE " " FOR THE LABEL 
+plt.plot(suspect2.letter, suspect2.frequency, label= "Gertrude Cox")
+
 
 # Display the plot
 plt.show()
