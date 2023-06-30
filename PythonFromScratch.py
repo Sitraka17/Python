@@ -89,7 +89,6 @@ form_letter = form_letter.replace("[Insert Name Here]", "Emily in Paris")
 print(form_letter)
 #############################################################################################################
 
-
 ###################### Level 2 ############
 # Import pandas
 import pandas as pd
