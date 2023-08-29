@@ -30,4 +30,4 @@ Understand how to declare variables and assign values to them. like a = 1 or i=i
 
  [Documentation](https://docs.python.org/fr/3/tutorial/index.html)
 
-https://python.developpez.com/tutoriels/apprendre-programmation-python/notions-avancees/?page=classe
+[Python facil](https://python.developpez.com/tutoriels/apprendre-programmation-python/notions-avancees/?page=classe)
