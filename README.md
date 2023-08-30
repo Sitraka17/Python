@@ -9,7 +9,7 @@ Hash maps are indexed data structures.
 # Start 
 Installation and Setup:
 
-Download and install Python from the official website (Python 3(test)[https://www.python.org/downloads/]).
+Download and install Python from the official website (Python 3 [test](https://www.python.org/downloads/).
 Set up a code editor or integrated development environment (IDE) like Visual Studio Code, PyCharm, or Jupyter Notebook.
 ### Syntax:
 Understand basic Python syntax, such as **indentation** (spaces and tabs), #comments, and statement termination.
