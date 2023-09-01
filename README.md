@@ -23,9 +23,6 @@ booleans, and more.
 Understand how to declare variables and assign values to them. like a = 1 or i=i+1 
 
 
-
-
-
 # Sources: 
 
  [Documentation](https://docs.python.org/fr/3/tutorial/index.html)
