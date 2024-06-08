@@ -30,3 +30,9 @@ Understand how to declare variables and assign values to them. like a = 1 or i=i
 [Python facil](https://python.developpez.com/tutoriels/apprendre-programmation-python/notions-avancees/?page=classe)
 
 [Harvard](https://scholar.harvard.edu/files/ambell/files/python_for_economists.pdf)
+
+
+
+# Bonus :
+
+https://youtu.be/wUSDVGivd-8?si=FSKzcpSvAFhvNUdX
