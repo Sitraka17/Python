@@ -35,4 +35,4 @@ Understand how to declare variables and assign values to them. like a = 1 or i=i
 
 # Bonus :
 
-https://youtu.be/wUSDVGivd-8?si=FSKzcpSvAFhvNUdX
+A 6H00 long video worth to at least watch for some parts ! https://youtu.be/wUSDVGivd-8?si=FSKzcpSvAFhvNUdX
